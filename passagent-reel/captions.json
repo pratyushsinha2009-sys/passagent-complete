@@ -1,0 +1,86 @@
+[
+  {
+    "text": "Guidance starts on the homepage.",
+    "startMs": 3250,
+    "endMs": 5375,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "New account or sign in? One clear choice.",
+    "startMs": 5375,
+    "endMs": 8000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Understand exactly what to fill.",
+    "startMs": 8250,
+    "endMs": 10333,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Simple words. Right beside the box.",
+    "startMs": 10333,
+    "endMs": 13000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "The page scrolls. The next box gets focus.",
+    "startMs": 13250,
+    "endMs": 15583,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Just type. Pause. Continue.",
+    "startMs": 15583,
+    "endMs": 18000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Answer a simple follow-up.",
+    "startMs": 18250,
+    "endMs": 20375,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Get a suggestion. You confirm the choice.",
+    "startMs": 20375,
+    "endMs": 23000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "A helpful nudge before you continue.",
+    "startMs": 23240,
+    "endMs": 25080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Fix the answer. Get back on track.",
+    "startMs": 25080,
+    "endMs": 27000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Guidance through the section. A clear review.",
+    "startMs": 27250,
+    "endMs": 29500,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Final checks and submission stay with you.",
+    "startMs": 29500,
+    "endMs": 32000,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "url": "https://www.passportindia.gov.in/psp",
+  "controls": [
+    {
+      "tag": "A",
+      "text": "Passport Offices",
+      "href": null,
+      "role": null,
+      "markup": "<a class=\"dropdown-toggle nav-link staticPageNavigations\" aria-expanded=\"false\" value=\"PassportOffices1\" title=\"Passport Offices\" id=\"collasible-nav-dropdown3\" style=\"font-size: 13px; margin-top: 4px; text-decoration: none;\">Passport Offices</a>"
+    },
+    {
+      "tag": "A",
+      "text": "Login",
+      "href": "https://services1.passportindia.gov.in/forms/PreLogin",
+      "role": null,
+      "markup": "<a href=\"https://services1.passportindia.gov.in/forms/PreLogin\" target=\"_blank\"><button type=\"button\" value=\"Register\" class=\"staticHomePageButtons btn btn-primary\" style=\"width: auto; font-size: 13px; font-family: Arial; padding-right: 24px; padding-left: 24px; height: 41px;\">Login</button></a>"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Login",
+      "href": null,
+      "role": null,
+      "markup": "<button type=\"button\" value=\"Register\" class=\"staticHomePageButtons btn btn-primary\" style=\"width: auto; font-size: 13px; font-family: Arial; padding-right: 24px; padding-left: 24px; height: 41px;\">Login</button>"
+    },
+    {
+      "tag": "A",
+      "text": "Register",
+      "href": "https://services1.passportindia.gov.in/forms/registration",
+      "role": null,
+      "markup": "<a href=\"https://services1.passportindia.gov.in/forms/registration\" target=\"_blank\"><button type=\"button\" value=\"Login\" class=\"staticHomePageButtons1 btn btn-primary\" style=\"margin-left: 12px; font-size: 13px; font-family: Arial; padding-right: 24px; padding-left: 24px; height: 41px;\">Register</button></a>"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Register",
+      "href": null,
+      "role": null,
+      "markup": "<button type=\"button\" value=\"Login\" class=\"staticHomePageButtons1 btn btn-primary\" style=\"margin-left: 12px; font-size: 13px; font-family: Arial; padding-right: 24px; padding-left: 24px; height: 41px;\">Register</button>"
+    },
+    {
+      "tag": "A",
+      "text": "www.passportindia.gov.in",
+      "href": "/psp",
+      "role": null,
+      "markup": "<a href=\"/psp\" target=\"_blank\" style=\"color: blue;\"><u>www.passportindia.gov.in</u></a>"
+    },
+    {
+      "tag": "A",
+      "text": "Passport Seva",
+      "href": "/psp/mPassportApp",
+      "role": null,
+      "markup": "<a href=\"/psp/mPassportApp\" target=\"_blank\" style=\"color: blue;\"><u>Passport Seva</u></a>"
+    }
+  ]
+}

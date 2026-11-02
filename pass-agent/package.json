@@ -1,0 +1,30 @@
+{
+  "name": "pass-agent",
+  "version": "0.1.0",
+  "private": true,
+  "description": "PassAgent — human-in-the-loop browser co-pilot for the Passport Seva portal",
+  "workspaces": [
+    "shared",
+    "apps/server",
+    "apps/web"
+  ],
+  "scripts": {
+    "check:guide": "npm run check:guide -w @pass-agent/server",
+    "inspect:portal": "npm run inspect:portal -w @pass-agent/server",
+    "verify:registration": "npm run verify:registration -w @pass-agent/server",
+    "test": "npm run test -w @pass-agent/server",
+    "test:guide": "npm run test:guide -w @pass-agent/server",
+    "test:guide:browser": "npm run test:guide:browser -w @pass-agent/server",
+    "dev": "concurrently -k -n server,web -c blue,magenta \"npm:dev -w @pass-agent/server\" \"npm:dev -w @pass-agent/web\"",
+    "dev:server": "npm run dev -w @pass-agent/server",
+    "dev:web": "npm run dev -w @pass-agent/web",
+    "build": "npm run build -w @pass-agent/web",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "browsers": "playwright install chromium"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0",
+    "playwright": "^1.48.2",
+    "typescript": "^5.6.3"
+  }
+}

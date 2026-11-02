@@ -1,0 +1,33 @@
+{
+  "name": "@pass-agent/server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check:guide": "tsx src/checkGuide.ts",
+    "inspect:portal": "tsx src/inspectPortal.ts",
+    "verify:registration": "tsx src/verifyRegistration.ts",
+    "test": "tsx --test src/agent/agent.test.ts src/guide.test.ts src/guideReliability.test.ts src/coach.test.ts src/languages.test.ts",
+    "test:guide": "tsx --test --test-name-pattern=\"agent observes|agent stays|agent has bounded|guide input|offline next-step|old AI|provider failures|extension bridge|passport knowledge|coach|language|guide accepts|English entry\" src/guide.test.ts src/guideReliability.test.ts src/coach.test.ts src/languages.test.ts",
+    "test:guide:browser": "tsx --test src/guideLayout.test.ts src/guideNetwork.test.ts src/guideHome.test.ts",
+    "test:guide:extension": "tsx --test --test-name-pattern=\"real extension\" src/guide.test.ts",
+    "dev": "tsx watch src/index.ts",
+    "start": "tsx src/index.ts",
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "@google/genai": "^2.32.0",
+    "@pass-agent/shared": "*",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "playwright": "^1.48.2",
+    "ws": "^8.18.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.9.0",
+    "@types/ws": "^8.5.12",
+    "tsx": "^4.19.2"
+  }
+}

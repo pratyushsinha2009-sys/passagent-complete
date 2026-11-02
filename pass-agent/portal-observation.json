@@ -1,0 +1,84 @@
+[
+  {
+    "url": "https://www.passportindia.gov.in/forms/registration",
+    "status": 200,
+    "fields": [
+      {
+        "id": "f0",
+        "label": "Question needs clarification",
+        "section": "Registration",
+        "name": "",
+        "help": "",
+        "type": "text",
+        "required": false,
+        "options": [],
+        "recognizedTopic": "unidentified",
+        "width": 476,
+        "height": 56,
+        "opacity": "1",
+        "parentMarkup": "<div class=\"css-1dbjc4n r-1mdbw0j\" style=\"min-height: 64px; padding-top: 8px;\"><input maxlength=\"45\" autocomplete=\"none\" autocapitalize=\"sentences\" autocorrect=\"on\" dir=\"auto\" spellcheck=\"true\" type=\"text\" data-focusable=\"true\" class=\"css-11aywtz r-16y2uox r-1b43r93 r-crgep1 r-1mdbw0j r-779j7e r-1qzd3f0 r-184en5c\" data-testid=\"text-input-outlined\" style=\"color: rgb(0, 0, 0); font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; height: 56px; outline: none; padding-top: 0px; text-align: left; vertical-align: middle;\"></div>"
+      },
+      {
+        "id": "f1",
+        "label": "Question needs clarification",
+        "section": "Registration",
+        "name": "",
+        "help": "",
+        "type": "text",
+        "required": false,
+        "options": [],
+        "recognizedTopic": "unidentified",
+        "width": 476,
+        "height": 56,
+        "opacity": "1",
+        "parentMarkup": "<div class=\"css-1dbjc4n r-1mdbw0j\" style=\"min-height: 64px; padding-top: 8px;\"><input maxlength=\"35\" autocomplete=\"none\" autocapitalize=\"sentences\" autocorrect=\"on\" dir=\"auto\" spellcheck=\"true\" type=\"text\" data-focusable=\"true\" class=\"css-11aywtz r-16y2uox r-1b43r93 r-crgep1 r-1mdbw0j r-779j7e r-1qzd3f0 r-184en5c\" data-testid=\"text-input-outlined\" style=\"color: rgb(0, 0, 0); font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; height: 56px; outline: none; padding-top: 0px; text-align: left; vertical-align: middle;\"></div>"
+      },
+      {
+        "id": "f2",
+        "label": "Question needs clarification",
+        "section": "Registration",
+        "name": "",
+        "help": "",
+        "type": "text",
+        "required": false,
+        "options": [],
+        "recognizedTopic": "unidentified",
+        "width": 476,
+        "height": 56,
+        "opacity": "1",
+        "parentMarkup": "<div class=\"css-1dbjc4n r-1mdbw0j\" style=\"min-height: 64px; padding-top: 8px;\"><input autocomplete=\"none\" autocapitalize=\"sentences\" autocorrect=\"on\" dir=\"auto\" spellcheck=\"true\" type=\"text\" data-focusable=\"true\" class=\"css-11aywtz r-16y2uox r-1b43r93 r-crgep1 r-1mdbw0j r-779j7e r-1qzd3f0 r-184en5c\" data-testid=\"text-input-outlined\" style=\"color: rgb(0, 0, 0); font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; height: 56px; outline: none; padding-top: 0px; text-align: left; vertical-align: middle;\"></div>"
+      },
+      {
+        "id": "f3",
+        "label": "Question needs clarification",
+        "section": "Registration",
+        "name": "",
+        "help": "",
+        "type": "password",
+        "required": false,
+        "options": [],
+        "recognizedTopic": "unidentified",
+        "width": 432,
+        "height": 56,
+        "opacity": "1",
+        "parentMarkup": "<div class=\"css-1dbjc4n r-1mdbw0j\" style=\"min-height: 64px; padding-top: 8px;\"><input maxlength=\"14\" autocomplete=\"none\" autocapitalize=\"sentences\" autocorrect=\"on\" dir=\"auto\" spellcheck=\"true\" type=\"password\" data-focusable=\"true\" class=\"css-11aywtz r-16y2uox r-1b43r93 r-crgep1 r-1mdbw0j r-779j7e r-1qzd3f0 r-184en5c\" data-testid=\"text-input-outlined\" style=\"color: rgb(0, 0, 0); font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; height: 56px; margin-right: 44px; outline: none; padding-right: 0px; padding-top: 0px; text-align: left; vertical-align: middle;\"></div>"
+      },
+      {
+        "id": "f4",
+        "label": "Question needs clarification",
+        "section": "Registration",
+        "name": "",
+        "help": "",
+        "type": "text",
+        "required": false,
+        "options": [],
+        "recognizedTopic": "unidentified",
+        "width": 476,
+        "height": 56,
+        "opacity": "1",
+        "parentMarkup": "<div class=\"css-1dbjc4n r-1mdbw0j\" style=\"min-height: 64px; padding-top: 8px;\"><input maxlength=\"15\" autocomplete=\"none\" autocapitalize=\"sentences\" autocorrect=\"on\" dir=\"auto\" spellcheck=\"true\" type=\"text\" data-focusable=\"true\" class=\"css-11aywtz r-16y2uox r-1b43r93 r-crgep1 r-1mdbw0j r-779j7e r-1qzd3f0 r-184en5c\" data-testid=\"text-input-outlined\" style=\"color: rgb(0, 0, 0); font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; height: 56px; outline: none; padding-top: 0px; text-align: left; vertical-align: middle;\"></div>"
+      }
+    ],
+    "publicPageText": "A-\nA\nA+\nHindi\nPassport Seva\nMinistry of External Affairs, Government of India\nUser Registration\nRegister to apply at*\n(Select the 'CPV Delhi' to apply for Diplomatic/Official passport at Consular, Passport and Visa (CPV) division, Delhi.) \nCPV Delhi\nPassport Office\n Full Name \n*\n (Initials and honorifics (e.g. Dr., Col.) are not allowed) \n Email ID \n*\n Do you want your Login Id to be same as E-mail Id? \n*\nYes\nNo\n Login ID \n*\nCheck Availability\n Password \n*\n⟳\n Enter the characters shown in the image \n*\nSign Up\nClear\nAlready have an Account? \nSign In\nATTENTION – PLEASE READ BEFORE PROCEEDING\n•\nIf an applicant wants to Reissue his/her passport from a different Regional Passport Office other than the one where his/her present passport is issued, then he/she is required to create a new login ID on the Passport Seva Portal. The new login ID can be created using the same email ID that was previously used.\n•\nTo create a new login ID, click on “Register”. After completing the registration process, select “Passport Office” and then choose any PSK/RPO from the available options as per your convenience.\n•\nApplicants may apply for passport services at any PSK/RPO across India based on their preference.\nWELCOME TO PASSPORT SEVA\nDelivering passport services to citizens in a timely, accessible, reliable manner"
+  }
+]

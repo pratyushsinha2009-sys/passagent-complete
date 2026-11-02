@@ -1,0 +1,63 @@
+{
+  "publicPage": "https://www.passportindia.gov.in/forms/registration",
+  "controls": [
+    {
+      "label": "Register to apply at*",
+      "type": "radio",
+      "required": true,
+      "options": [
+        "CPV Delhi",
+        "Passport Office"
+      ],
+      "topic": "register-office"
+    },
+    {
+      "label": "Do you want your Login Id to be same as E-mail Id? *",
+      "type": "radio",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "topic": "same-login-email"
+    },
+    {
+      "label": "Full Name * (Initials and honorifics (e.g. Dr., Col.) are not allowed)",
+      "type": "text",
+      "required": true,
+      "options": [],
+      "topic": "given-name"
+    },
+    {
+      "label": "Email ID *",
+      "type": "text",
+      "required": true,
+      "options": [],
+      "topic": "email"
+    },
+    {
+      "label": "Login ID *",
+      "type": "text",
+      "required": true,
+      "options": [],
+      "topic": "login-id"
+    },
+    {
+      "label": "Password *",
+      "type": "password",
+      "required": true,
+      "options": [],
+      "topic": "password"
+    },
+    {
+      "label": "Enter the characters shown in the image *",
+      "type": "text",
+      "required": true,
+      "options": [],
+      "topic": "captcha"
+    }
+  ],
+  "unrecognized": 0,
+  "missingExpectedQuestions": [],
+  "filledOrSubmitted": false
+}

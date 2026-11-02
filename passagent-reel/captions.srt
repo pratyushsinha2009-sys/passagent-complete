@@ -1,0 +1,47 @@
+1
+00:00:03,250 --> 00:00:05,375
+Guidance starts on the homepage.
+
+2
+00:00:05,375 --> 00:00:08,000
+New account or sign in? One clear choice.
+
+3
+00:00:08,250 --> 00:00:10,333
+Understand exactly what to fill.
+
+4
+00:00:10,333 --> 00:00:13,000
+Simple words. Right beside the box.
+
+5
+00:00:13,250 --> 00:00:15,583
+The page scrolls. The next box gets focus.
+
+6
+00:00:15,583 --> 00:00:18,000
+Just type. Pause. Continue.
+
+7
+00:00:18,250 --> 00:00:20,375
+Answer a simple follow-up.
+
+8
+00:00:20,375 --> 00:00:23,000
+Get a suggestion. You confirm the choice.
+
+9
+00:00:23,240 --> 00:00:25,080
+A helpful nudge before you continue.
+
+10
+00:00:25,080 --> 00:00:27,000
+Fix the answer. Get back on track.
+
+11
+00:00:27,250 --> 00:00:29,500
+Guidance through the section. A clear review.
+
+12
+00:00:29,500 --> 00:00:32,000
+Final checks and submission stay with you.

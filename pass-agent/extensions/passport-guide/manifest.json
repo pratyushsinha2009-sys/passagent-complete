@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "PassAgent — Passport Guide",
+  "version": "3.4.0",
+  "description": "A step-by-step tutorial beside the real Passport Seva form. You fill the form; your guide explains each field.",
+  "permissions": ["storage"],
+  "host_permissions": ["http://127.0.0.1:8787/*"],
+  "background": { "service_worker": "background.js" },
+  "action": { "default_popup": "popup.html", "default_title": "Open Passport Guide" },
+  "content_scripts": [{
+    "matches": ["https://passportindia.gov.in/*", "https://*.passportindia.gov.in/*"],
+    "js": ["guidance-languages.js", "languages.js", "guide-state.js", "passport-knowledge.js", "coach.js", "field-reader.js", "inline-theme.js", "home-guide.js", "content.js"],
+    "run_at": "document_idle"
+  }]
+}
